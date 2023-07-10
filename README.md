@@ -1,2 +1,2 @@
 # clojure-samples
-Repo used to reproduce errors and bugs in Clojure
+Repo used for reproducing errors and bugs in Clojure
